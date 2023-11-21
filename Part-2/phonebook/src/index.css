@@ -1,0 +1,16 @@
+.red {
+  background-color: lightgray;
+  color: red;
+  font-size: 110%;
+  border: 2px solid red;
+  padding: 0 2rem;
+  margin-bottom: 2rem;
+}
+.green {
+  border: 2px solid green;
+  padding: 0 2rem;
+  font-size: 110%;
+  color: green;
+  background-color: lightgray;
+  margin-bottom: 2rem;
+}
